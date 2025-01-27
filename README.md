@@ -2,8 +2,6 @@
 
 In a world driven by data, I specialise in transforming complexity into clarity. With a solid foundation in **Business Analytics** and a proven track record of delivering actionable insights, I help organisations make data-driven decisions that drive growth and efficiency. I combine technical expertise, business acumen and a passion for problem-solving to deliver solutions that matter.
 
----
-
 ## About Me
 
 As a **Master’s graduate in Business Analytics from Monash University**, I bring a unique blend of technical skills and business understanding to the table. Whether it’s designing predictive models, creating interactive dashboards or streamlining workflows, my focus is always on achieving measurable outcomes.
@@ -12,8 +10,6 @@ Here’s how I make an impact:
 - Turning raw data into strategic insights for better decision-making.
 - Building robust data pipelines and visualisation tools to simplify complex problems.
 - Delivering solutions tailored to business needs, with precision and clarity.
-
----
 
 ## Core Expertise
 
@@ -31,8 +27,6 @@ Here’s how I make an impact:
 **Tools and Frameworks**  
 - Pandas, NumPy, Matplotlib, ggplot
 - Jupyter Notebooks, GitHub, Agile workflows  
-
----
 
 ## Project Experience
 
@@ -54,8 +48,7 @@ An R Shiny application designed to uncover trends in coffee brand popularity and
   - Implemented feedback analysis using word clouds to highlight customer preferences.
   - Enabled dynamic filtering and customisation for in-depth analysis.
 
-[Explore the Project](https://github.com/parnikakhattri/coffedia)
----
+[Explore the Project](https://github.com/parnikakhattri/Coffedia)
 
 ## Let’s Collaborate
 
@@ -63,7 +56,5 @@ If you’re looking for someone who can elevate your data capabilities or help s
 
 - **LinkedIn**: [linkedin.com/in/parnikakhattri](https://www.linkedin.com/in/parnikakhattri)  
 - **Email**: [parnika.khattri04@gmail.com](mailto:parnika.khattri04@gmail.com)  
-
----
 
 *Data is everywhere; let’s harness its power together.*
