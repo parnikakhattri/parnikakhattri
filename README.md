@@ -30,6 +30,17 @@ Here’s how I make an impact:
 
 ## Project Experience
 
+### Achievement Scraper Package | Academic Data Automation Tool
+An R package developed to automate the extraction, processing and analysis of academic publication data from ORCID and Google Scholar IDs, enhancing data retrieval and reporting efficiency.
+- **Key Highlights**:
+  - Built a robust pipeline for seamless data integration, enabling efficient analysis and reporting.
+  - Analysed over 2,000 academic publications to uncover key trends and performance metrics.
+  - Simplified the visualisation of research outputs through dynamic analytical plots, supporting data-driven strategic planning.
+
+[Explore the Project](https://github.com/numbats/achievement-scraper)
+
+---
+
 ### Real Estate Insights | Property Recommendation Engine
 A Python-powered system designed to help users find their ideal property based on geospatial data and personalised preferences.  
 - **Key Highlights**:
